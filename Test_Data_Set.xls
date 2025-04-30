@@ -1,5 +1,5 @@
 Id,Maker,model,Location,Distance ,Owner Type,manufacture_year,Age of car,engine_displacement,engine_power,body_type,Vroom Audit Rating,transmission,door_count,seat_count,fuel_type
-11001,skoda,octavia,Mumbai,150000,First,2007,12,1595,75,,5,man,4,5,petrol
+11001,skoda,octavia,Mumbai,150000,First,2007,12,1595,75,,5,man,4,5,diesel
 11002,skoda,rapid,Coimbatore,29376,Third,2014,5,1598,77,,4,man,4,5,diesel
 11003,skoda,octavia,Coimbatore,30563,Second,2014,5,1968,110,,5,man,5,5,diesel
 11004,audi,q3,Delhi,8650,Fourth & Above,2015,4,1968,110,,8,auto,4,5,diesel
